@@ -1,3 +1,7 @@
 DATABASEURL : rds.co
 USERNAME: hrukish
-password: test@123
+jenkinsurl: 10.12.10.2:80
+username-jenkins: admin
+
+
+
